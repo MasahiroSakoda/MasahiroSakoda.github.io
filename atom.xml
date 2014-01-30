@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://MasahiroSakoda.github.io/atom.xml" rel="self"/>
+  <link href="http://MasahiroSakoda.github.io/"/>
+  <updated>2014-01-31T08:05:00+09:00</updated>
+  <id>http://MasahiroSakoda.github.io/</id>
+  <author>
+    <name><![CDATA[MasahiroSakoda]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Initial Article]]></title>
+    <link href="http://MasahiroSakoda.github.io/blog/2014/01/31/initial-article/"/>
+    <updated>2014-01-31T07:58:55+09:00</updated>
+    <id>http://MasahiroSakoda.github.io/blog/2014/01/31/initial-article</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
